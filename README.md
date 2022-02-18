@@ -7,7 +7,7 @@
 
 🔴Java , Python , Kotline,Android Apps , Dart (Flutter), Javascript (Vanilla/Node), PHP (Native,Laravel) , Rust , Erlang .<br>
 🟢 Ask me about code, making music  .<br>
-🟣 How to reach me: [hi@e200.dev](mailto:kajivakinsley@gmail.com) .<br>
+🟣 How to reach me: [kajivakinsley@gmail.com](mailto:kajivakinsley@gmail.com) .<br>
 
 - 🔭 I’m currently working on alot of WebRTC since 2020 , big fan of Janus https://github.com/meetecho/janus-gateway  , Microservices
 - 🌱 I’m currently learning alot .
