@@ -1,6 +1,6 @@
 ## First solve the problem, then write the code.
 
-### Hi there 👋 ,I am   ✨ **Kinsley Kajiva** ✨
+### Hi there 👋 
 
 #### I'm from Zimbabwe , I write code 💻 and chill with code.
 
