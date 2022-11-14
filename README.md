@@ -4,9 +4,9 @@
 
 #### I'm from Zimbabwe , I write code 💻 and chill with code.
 
-Here is my Bitbucket Account [![Bitbucket Account ](https://img.shields.io/bitbucket/issues/lbesson/bin.svg)](https://bitbucket.org/kajivakinsley/)  
+Here is my Bitbucket Account https://bitbucket.org/kajivakinsley
 
-🔴Java , Python , Kotline,Android Apps , Dart (Flutter), Javascript (Vanilla/Node), PHP (Native,Laravel) , Rust , Erlang .<br>
+🔴Java , Python , Android Java Apps , Dart (Flutter), Javascript ,Typescript, PHP (Native,Laravel)  .<br>
 🟢 Ask me about code, making music  .<br>
 🟣 How to reach me: [kajivakinsley@gmail.com](mailto:kajivakinsley@gmail.com) .<br>
 
@@ -15,7 +15,7 @@ Here is my Bitbucket Account [![Bitbucket Account ](https://img.shields.io/bitbu
 - 👯 I’m looking to collaborate on Open Source [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 - 💬 Ask me about  code and music 
 
-[![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-elixir.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-erlang.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+[![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-elixir.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-erlang.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
 
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/kinsleyKAJIVA?style=social)](https://twitter.com/kinsleyKAJIVA) 
