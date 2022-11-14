@@ -15,8 +15,6 @@ Here is my Bitbucket Account https://bitbucket.org/kajivakinsley
 - 👯 I’m looking to collaborate on Open Source [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 - 💬 Ask me about  code and music 
 
-[![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-elixir.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-erlang.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
-
 
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/kinsleyKAJIVA?style=social)](https://twitter.com/kinsleyKAJIVA) 
 [![GitHub followers](https://img.shields.io/github/followers/kinsleykajiva?style=social)](https://github.com/kinsleykajiva)
