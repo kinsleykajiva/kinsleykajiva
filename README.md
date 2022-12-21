@@ -12,8 +12,8 @@ Here is my Bitbucket Account https://bitbucket.org/kajivakinsley
 
 - 🔭 I’m currently working on alot of WebRTC since 2020 , big fan of Janus https://github.com/meetecho/janus-gateway  , Microservices
 - 🌱 I’m currently learning alot .
-- 👯 I’m looking to collaborate on Open Source [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-- 💬 Ask me about  code and music 
+- 👯 I’m looking to collaborate on  [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+- 💬 Ask me about  code and music .
 
 
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/kinsleyKAJIVA?style=social)](https://twitter.com/kinsleyKAJIVA) 
