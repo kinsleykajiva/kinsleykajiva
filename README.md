@@ -17,7 +17,7 @@
 
 ### I am always looking for a paying gig,feel free to hit me up .
 
-<h2 align="center">My Stats</h2>
+
 
 ###
 
