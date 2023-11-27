@@ -1,4 +1,4 @@
-# Hey, I'm Kinsley! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, I'm Kinsley! Nice To Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kinsleykajiva)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinsley-kajiva/)
@@ -9,13 +9,13 @@
 
 ###
 
-🔭 I’m currently working on alot of WebRTC since 2020 , big fan of Janus https://github.com/meetecho/janus-gateway , Microservices\
+🔭 I’m currently working on a lot of WebRTC since 2020, big fan of Janus https://github.com/meetecho/janus-gateway , Microservices\
 💻 I am constantly seeking out new technologies and learning about them.\
 🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.
 
 ###
 
-### I am always looking for a paying gig,feel free to hit me up .
+### I am always looking for a paying gig, feel free to hit me up.
 
 
 
