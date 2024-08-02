@@ -9,11 +9,6 @@
 
 ###
 
-🔭 I’m currently working on a lot of WebRTC since 2020, big fan of Janus https://github.com/meetecho/janus-gateway , Microservices\
-💻 I am constantly seeking out new technologies and learning about them.\
-🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.
-
-###
 
 ### I am always looking for a paying gig, feel free to hit me up.
 
